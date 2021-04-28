@@ -1,0 +1,5 @@
+IPL Score Prediction System
+
+Here, Given certain input parameters regarding an innings of 
+a T20 cricket match(right now we are just considering T20 match), 
+predict the total runs scored by the batting team at any given time.
